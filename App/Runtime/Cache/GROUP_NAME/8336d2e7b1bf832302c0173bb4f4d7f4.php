@@ -32,12 +32,6 @@
 		    <li <?php if(APP_NAME == 'Admin'): ?>class="active"<?php endif; ?> >
 		    	<a href="admin.php?m=Index&a=index">后台管理</a>
 		    </li>
-		    <li class="pull-right" <?php if(APP_NAME == 'Admin'): ?>class="active"<?php endif; ?> >
-		    	<a href="admin.php?m=Index&a=index">注册</a>
-		    </li>
-		    <li class="pull-right" <?php if(APP_NAME == 'Admin'): ?>class="active"<?php endif; ?> >
-		    	<a href="admin.php?m=Index&a=index">登录</a>
-		    </li>
     	</ul>
 	</div>
 </div>
@@ -46,7 +40,7 @@
 
 
 
-index
+forum
 </div>
 <div id="footer">
 	<div id="fcenter">

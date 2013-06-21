@@ -25,8 +25,8 @@ $sconfig = array(										//私有配置
 	'APP_FILE_CASE'         => true,   // 是否检查文件的大小写 对Windows平台有效
 	'SHOW_ERROR_MSG'        => true,    // 显示错误信息
     'TRACE_EXCEPTION'       => true,   // TRACE错误信息是否抛异常 针对trace方法 
-    'TMPL_L_DELIM'=>'<{',		//模板前缀
-    'TMPL_R_DELIM'=>'}>',		//模板后缀
+    //'TMPL_L_DELIM'=>'<{',		//模板前缀
+    //'TMPL_R_DELIM'=>'}>',		//模板后缀
 	
 );
 //return array_merge（$pconfig,$sconfig);
